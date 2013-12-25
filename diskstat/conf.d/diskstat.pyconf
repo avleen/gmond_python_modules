@@ -5,9 +5,9 @@ modules {
     name = 'diskstat'
     language = 'python'
 
-    param devices {
-      value = 'sda'
-    }
+    #param devices {
+    #  value = 'sda'
+    #}
 
     #param device-mapper {
     #  value = 'true'
